@@ -7,7 +7,9 @@ Installation:
 
 2. Create new Folder called "mails"
 
-3. node index.js (Main Folder where "mails" is a subfolder of)
+3. node app.js (Main Folder where "mails" is a subfolder of)
+
+4. Read received Mails in Folder "mails"
 
 Enjoy receiving mails in JSON Format with all details.
 
